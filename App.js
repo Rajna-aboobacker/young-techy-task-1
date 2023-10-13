@@ -6,10 +6,7 @@ const App = () => {
   return (
   <View style={{
      flex:1,
-    background:'yellow',
-
- 
-
+    background:'blue',
  }}>
    <View style={{
     flex:2,
